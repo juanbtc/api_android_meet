@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RickyMorty</string>
+    <string name="title_activity_main_bottom_nav">MainActivityBottomNav</string>
+    <string name="title_character">Characters</string>
+    <string name="title_location">Locations</string>
+    <string name="title_episodes">Episodes</string>
+</resources>
